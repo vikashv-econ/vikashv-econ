@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @vikashv-econ
-- 👀 I’m interested in Social Sciences Research
-- 🌱 I’m currently learning a lot of things 
-- 💞️ I’m looking to collaborate on AI/ML 
+- 👋 Hi, I’m @vikashv-econ (Dr. Vikash Vaibhav) 
+- 👀 I’m interested in Social Sciences Research (with focus on Economics) 
 - 📫 How to reach me vikash4457sst@gmail.com 
 
 <!---
